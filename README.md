@@ -40,7 +40,8 @@
 
 <br>
 
-## 📌 Melhorias Futuras
+## ⚙ Melhorias Futuras 
+<br>
 
 Aumentar a segurança para criar a conexão entre as colaboradoras.
 
@@ -53,7 +54,7 @@ Adicionar um chat para interação em tempo real.
 <br>
 
 ## 👋 Equipe Guerreiras Tech
-
+<br>
 
 - Bruna Martins <a href="https://www.linkedin.com/in/bruna-martins-917b24234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - Gabriela Felix <a href="https://www.linkedin.com/in/gabriela-felix-de-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
