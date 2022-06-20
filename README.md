@@ -44,13 +44,13 @@
 
 <br>
 
-* Aumentar a segurança para criar a conexão entre as colaboradoras.
+Aumentar a segurança para criar a conexão entre as colaboradoras.
 
-* Implementar o status da colaboradora.
+Implementar o status da colaboradora.
 
-* Interação nas publicações. 
+Interação nas publicações. 
 
-* Adicionar um chat para interação em tempo real.
+Adicionar um chat para interação em tempo real.
 
 <br>
 
