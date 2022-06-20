@@ -38,8 +38,8 @@
 <a  href="https://www.netlify.com/"><img  alt="Netlify"  src="https://img.shields.io/badge/netlify-orange">
 
 
-<br>
-<br>
+<br><br>
+
 
 ## ⚙ **Melhorias Futuras**
 
