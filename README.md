@@ -42,8 +42,6 @@
 
 ## 📌 Melhorias Futuras
 
-<br>
-
 Aumentar a segurança para criar a conexão entre as colaboradoras.
 
 Implementar o status da colaboradora.
