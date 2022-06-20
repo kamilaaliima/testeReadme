@@ -64,4 +64,4 @@
 - Laise Figueira <a href="https://www.linkedin.com/in/laise-figueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - Lavínia Amorim <a href="https://www.linkedin.com/in/lavinia-amorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<br><br>
+<br>
