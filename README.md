@@ -1,5 +1,5 @@
 
-<h1 align="center"> Reprograma - projeto para Lar de Idosos </h1>
+<h1 align="center"> Guerreiras Tech - Projeto Integrador Generation Brasil T51 </h1>
 
 
 <img src="./assets/logo.png.png" width="100%">
