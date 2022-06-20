@@ -50,7 +50,7 @@
 - Interação nas publicações. 
 - Adicionar um chat para interação em tempo real. 
 
-<br>
+<br><br>
 
 ## 👋 Equipe Guerreiras Tech
 
