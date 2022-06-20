@@ -45,10 +45,10 @@
 
 <br>
 
-* Aumentar a segurança para criar a conexão entre as colaboradoras.
-* Implementar o status da colaboradora. 
-* Interação nas publicações. 
-* Adicionar um chat para interação em tempo real. 
+- Aumentar a segurança para criar a conexão entre as colaboradoras.
+- Implementar o status da colaboradora. 
+- Interação nas publicações. 
+- Adicionar um chat para interação em tempo real. 
 
 
 <br>
@@ -57,10 +57,11 @@
 ## 👋 Equipe Guerreiras Tech
 <br>
 
-- Bruna Martins <a href="https://www.linkedin.com/in/bruna-martins-917b24234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 - Gabriela Felix <a href="https://www.linkedin.com/in/gabriela-felix-de-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - Julio Barros <a href="https://www.linkedin.com/in/juliocezarbarros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 - Kamila Lima <a href="https://www.linkedin.com/in/kamila-lima-falcao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - Kemelly Pereira <a href="https://www.linkedin.com/in/kemelly-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - Laise Figueira <a href="https://www.linkedin.com/in/laise-figueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - Lavínia Amorim <a href="https://www.linkedin.com/in/lavinia-amorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- Bruna Martins <a href="https://www.linkedin.com/in/bruna-martins-917b24234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
