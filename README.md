@@ -54,9 +54,10 @@ Adicionar um chat para interação em tempo real.
 
 <br>
 
-### Equipe Guerreiras Tech
+### 👋 **Equipe Guerreiras Tech**
 
-- Bruna Martins<a href="https://www.linkedin.com/in/bruna-martins-917b24234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+- Bruna Martins <a href="https://www.linkedin.com/in/bruna-martins-917b24234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - Gabriela Felix <a href="https://www.linkedin.com/in/gabriela-felix-de-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - Julio Barros <a href="https://www.linkedin.com/in/juliocezarbarros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 - Kamila Lima <a href="https://www.linkedin.com/in/kamila-lima-falcao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
