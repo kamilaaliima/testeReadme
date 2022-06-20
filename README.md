@@ -54,7 +54,7 @@ Adicionar um chat para interação em tempo real.
 
 <br>
 
-### 👋 Equipe Guerreiras Tech
+## 👋 Equipe Guerreiras Tech
 
 
 - Bruna Martins <a href="https://www.linkedin.com/in/bruna-martins-917b24234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
