@@ -24,18 +24,18 @@
 
 
 <p  align="justify">
-<a  href="https://www.java.com/"><img  alt="Java"  src="https://img.shields.io/badge/Java-orange">
-<a  href="https://git-scm.com/"><img  alt="Git version"  src="https://img.shields.io/badge/Git/GitHub-orange">
-<a  href="https://www.mysql.com/"><img  alt="Mysql"  src="https://img.shields.io/badge/mysql-orange">
-<a  href="https://www.postman.com/"><img  alt="Postman"  src="https://img.shields.io/badge/Postman-orange">
-<a  href="https://dashboard.heroku.com/login"><img  alt="Heroku"  src="https://img.shields.io/badge/Heroku-orange">
-<a  href="https://spring.io/projects/spring-boot"><img  alt="SpringBoot"  src="https://img.shields.io/badge/springboot-orange">
-<a  href="https://html.spec.whatwg.org/ "><img  alt="Html 5"  src="https://img.shields.io/badge/html5-orange">
-<a  href="https://www.w3schools.com/css/"><img  alt="CSS 3"  src="https://img.shields.io/badge/css3-orange">
-<a  href="https://getbootstrap.com.br/ "><img  alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-orange">
-<a  href="https://www.typescriptlang.org/"><img  alt="Typescript"  src="https://img.shields.io/badge/typescript-orange">
-<a  href="https://angular.io/"><img  alt="Angular"  src="https://img.shields.io/badge/angular-orange">
-<a  href="https://www.netlify.com/"><img  alt="Netlify"  src="https://img.shields.io/badge/netlify-orange">
+<a  href="https://www.java.com/"><img  alt="Java"  src="https://img.shields.io/badge/Java-orange"></a>
+<a  href="https://git-scm.com/"><img  alt="Git version"  src="https://img.shields.io/badge/Git/GitHub-orange"></a>
+<a  href="https://www.mysql.com/"><img  alt="Mysql"  src="https://img.shields.io/badge/mysql-orange"></a>
+<a  href="https://www.postman.com/"><img  alt="Postman"  src="https://img.shields.io/badge/Postman-orange"></a>
+<a  href="https://dashboard.heroku.com/login"><img  alt="Heroku"  src="https://img.shields.io/badge/Heroku-orange"></a>
+<a  href="https://spring.io/projects/spring-boot"><img  alt="SpringBoot"  src="https://img.shields.io/badge/springboot-orange"></a>
+<a  href="https://html.spec.whatwg.org/ "><img  alt="Html 5"  src="https://img.shields.io/badge/html5-orange"></a>
+<a  href="https://www.w3schools.com/css/"><img  alt="CSS 3"  src="https://img.shields.io/badge/css3-orange"></a>
+<a  href="https://getbootstrap.com.br/ "><img  alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-orange"></a>
+<a  href="https://www.typescriptlang.org/"><img  alt="Typescript"  src="https://img.shields.io/badge/typescript-orange"></a>
+<a  href="https://angular.io/"><img  alt="Angular"  src="https://img.shields.io/badge/angular-orange"></a>
+<a  href="https://www.netlify.com/"><img  alt="Netlify"  src="https://img.shields.io/badge/netlify-orange"></a>
 
 
 <br><br>
