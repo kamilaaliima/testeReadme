@@ -40,20 +40,21 @@
 
 <br>
 
-## ⚙ Melhorias Futuras 
-<br>
-
-Aumentar a segurança para criar a conexão entre as colaboradoras.
-
-Implementar o status da colaboradora.
-
-Interação nas publicações. 
-
-Adicionar um chat para interação em tempo real.
+## ⚙ **Melhorias Futuras**
 
 <br>
 
-## 👋 Equipe Guerreiras Tech
+* Aumentar a segurança para criar a conexão entre as colaboradoras.
+* Implementar o status da colaboradora. 
+* Interação nas publicações. 
+* Adicionar um chat para interação em tempo real. 
+
+Esse projeto está em construção 🚧, caso você tenha uma sugestão de melhorias para ele, ela será bem vinda! 🌼
+
+<br>
+
+
+### 👋 Equipe Guerreiras Tech
 <br>
 
 - Bruna Martins <a href="https://www.linkedin.com/in/bruna-martins-917b24234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
